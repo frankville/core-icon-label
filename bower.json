@@ -1,0 +1,25 @@
+{
+  "name": "core-icon-label",
+  "version": "0.0.0",
+  "authors": [
+    "Villasanti Francisco <villasanti.francisco@gmail.com>"
+  ],
+  "description": "a simple properly spaced label with an icon",
+  "keywords": [
+    "label",
+    "icon"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.5",
+    "core-icon": "Polymer/core-icon#~0.3.5"
+  }
+}
